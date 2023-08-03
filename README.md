@@ -1,1 +1,1 @@
-A full-stack NEXT.js app that was written by following Fireship.io's [Next-Firebase Tutorial](https://fireship.io/courses/react-next-firebase/intro-resources/). This app uses Firebase for authentication and cloud data storage.
+A full-stack NEXT.js app that was written by following Fireship.io's [Next-Firebase Tutorial](https://fireship.io/courses/react-next-firebase/intro-resources/). The web app is hosted on Vercel at [this link](next-firebase-tutorial-six.vercel.app). This app uses Firebase for authentication and cloud data storage.
