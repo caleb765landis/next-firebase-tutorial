@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+A full-stack NEXT.js app that was written by following Fireship.io's [Next-Firebase Tutorial](https://fireship.io/courses/react-next-firebase/intro-resources/). This app uses Firebase for authentication and cloud data storage.
